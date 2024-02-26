@@ -1,5 +1,0 @@
-**/*.class
-**/build/
-*.log
-!debug.log
-log/**/debug.log
