@@ -1,3 +1,3 @@
-# Hello World
-yey i am learning git
+# Hello World!
+yey i am learning git!
 # Olá mundo
